@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { motion, cubicBezier } from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function AboutComponent() {
   const bottomAnimateProps = {
