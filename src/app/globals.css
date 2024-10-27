@@ -20,3 +20,6 @@ body {
   font-family: Helvetica, sans-serif;
   overflow-x: hidden;
 }
+.image {
+  clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
+}
